@@ -9,7 +9,7 @@ An application for applying image enhancement in the spatial domain
 # DEMO
 
 You can equaliza a pgm image and analyz by selcet image in your pc.
-![Demo](https://imgur.com/a/8gHj84k)
+![Demo](https://imgur.com/a/8gHj84k.png)
 
 # Features
 
