@@ -21,6 +21,3 @@ Equalization_cpp can show result with gray level hitogram analyzing.
 * Compiler [Qt Creator 8.0.2(Community)](https://www.qt.io/), [Visual Studio 2019](https://visualstudio.microsoft.com/).
 * OS Microsoft Windows10 pro
 
-# Note
-
-** Executable file is too big so you can download from here. (https://drive.google.com/file/d/156rBWM1562CDQcnYm4u5xu1zbQHR37h1/view?usp=sharing)
