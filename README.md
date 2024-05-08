@@ -9,7 +9,7 @@ An application for applying image enhancement in the spatial domain
 # DEMO
 
 You can equaliza a pgm image and analyz by selcet image in your pc.
-![image]([https://imgur.com/a/8gHj84k.png](https://github.com/ooniwatori/histogram-equalization-system/blob/main/demo.png))
+![image](https://github.com/ooniwatori/histogram-equalization-system/blob/main/demo.png)](https://raw.githubusercontent.com/ooniwatori/histogram-equalization-system/main/demo.png)
 
 # Features
 
