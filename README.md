@@ -1,10 +1,5 @@
-# histogram equalization system
+# Histogram equalization system
 An application for applying image enhancement in the spatial domain
-
-
-# ImageProcessing.exe
-
-Histogram equalization system is a image equalization application.
 
 # DEMO
 
